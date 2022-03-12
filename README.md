@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mananjain773
-- 👀 I’m interested in DESIGN
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on FRONT END UI DESIGN 
+- 👀 I’m interested in DESIGN and DATA ANALYTICS ans ML
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on ANALYTICS projects
 - 📫 How to reach me jainmananjain9@gmail.com
 
 <!---
